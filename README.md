@@ -1,1 +1,0 @@
-# rassus_lab3
